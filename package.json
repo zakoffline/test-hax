@@ -18,7 +18,7 @@
     "morgan": "~1.9.1",
     "prisma": "^5.15.1",
     "sanitize-html": "^2.7.0",
-    "form-data": "^4.0.0"
+    "form-data": "^4.0.0",
     "fs": "0.0.1-security",
     "haxball.js": "^2.2.0",
     "https-proxy-agent": "^7.0.5",
